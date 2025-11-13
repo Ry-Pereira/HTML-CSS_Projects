@@ -1,0 +1,71 @@
+body{
+    background-color: #EFECE3;
+    text-align:center;
+    margin: auto;
+    width:900px;
+}
+
+#night_sky_image{
+    width:800px;
+    height:500px;
+
+}
+
+hr{
+    border: 3px solid #8FABD4;
+    width:100%;
+}
+
+h1{
+    color:#4A70A9;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 35px;
+    margin-bottom:auto;
+    margin-top:auto;
+    display:inline-block;
+    float:left;
+    
+}
+
+#night_sky_title{
+    float:right;
+}
+p{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+    color:black;
+    margin-top:10px;
+    margin-bottom:auto;
+}
+
+h2{
+    color:#4A70A9;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    text-align:left;
+    margin-left: 43px;
+    margin-bottom: 20px;
+
+}
+
+#para{
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight:bold;
+    margin-bottom: 20px;
+}
+
+img{
+    margin-top:20px;
+    border: 5px solid #8FABD4;
+}
+
+#para:hover{
+    color:#FAEB92;
+    background-color:#9929EA;
+}
+#title{
+    margin-top:20px;
+}
